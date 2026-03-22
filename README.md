@@ -48,7 +48,7 @@ npm install
 npm run dev
 ```
 
-The app will be running at `http://localhost:5173`
+The app will be running at `(https://gamers-den-ashen.vercel.app/)`
 
 ---
 
@@ -58,8 +58,9 @@ The app will be running at `http://localhost:5173`
 gamers-den/
 ├── src/
 │   └── App.jsx        # Main application file
-├── public/
+│   └── main.jsx
 ├── index.html
+├── vite.config.js
 ├── package.json
 └── README.md
 ```
