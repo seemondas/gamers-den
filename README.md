@@ -91,4 +91,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Seemon Das**  
 🌐 [seemondas.com](https://seemondas.com)  
-💼 [GitHub]([https://github.com/your-username](https://github.com/seemondas))
+💼 [GitHub](https://github.com/seemondas)
